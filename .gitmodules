@@ -1,0 +1,3 @@
+[submodule "Category.Api"]
+	path = Category.Api
+	url = https://github.com/farunurisonmez/ECommerce-Microservices-Category.git
