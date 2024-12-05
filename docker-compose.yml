@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  category-api:
+    build:
+      context: ./Category.Api
+      dockerfile: Dockerfile
+    ports:
+      - "5001:80"
