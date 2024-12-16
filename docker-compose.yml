@@ -5,4 +5,4 @@ services:
       context: ./Category.Api
       dockerfile: Dockerfile
     ports:
-      - "5001:80"
+      - "5001:8080"
